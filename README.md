@@ -47,7 +47,7 @@ A multilingual web-based application designed to make **data cleaning** and **vi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/data-cleaning-tool.git
+   git clone https://github.com/keremkarayaz/data-cleaning-tool.git
    cd data-cleaning-tool
    
 2. Install the dependencies:
